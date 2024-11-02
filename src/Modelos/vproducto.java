@@ -12,6 +12,8 @@ public class vproducto {
 
     public vproducto() {
     }
+    
+    //TERCER COMMMIT
 
     public vproducto(int idproducto, String nombre, String descripcion, String unidad_medida, Double precio_venta) {
         this.idproducto = idproducto;
