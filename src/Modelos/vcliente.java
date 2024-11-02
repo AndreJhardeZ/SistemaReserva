@@ -4,6 +4,8 @@ package Modelos;
 
 public class vcliente extends vpersona{
     private String codigo_cliente;
+    
+    //Prueba de conexion a github
 
     public vcliente() {
     }
